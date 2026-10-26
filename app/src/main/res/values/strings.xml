@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GameLingo Offline</string>
+    <string name="app_tagline">Penerjemah Layar Game On-Device</string>
+    <string name="start_service">Mulai Layanan</string>
+    <string name="stop_service">Hentikan Layanan</string>
+    <string name="translate_now">Terjemahkan Sekarang</string>
+    <string name="auto_translate">Terjemahan Otomatis</string>
+    <string name="select_region">Pilih Area Layar</string>
+    <string name="source_language">Bahasa Sumber</string>
+    <string name="target_language">Bahasa Tujuan</string>
+    <string name="offline_mode">Mode Offline</string>
+    <string name="download_models">Unduh Model Bahasa</string>
+    <string name="translation_history">Riwayat Terjemahan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="status_ready">Siap Offline</string>
+    <string name="status_model_needed">Unduh Model Diperlukan</string>
+    <string name="status_active">Aktif Menerjemahkan</string>
+    <string name="permission_overlay">Izin Jendela Mengambang</string>
+    <string name="permission_capture">Izin Tangkapan Layar</string>
+    <string name="permission_granted">Diizinkan</string>
+    <string name="permission_required">Diperlukan</string>
+    <string name="notification_channel_name">Layanan Layar GameLingo</string>
+    <string name="notification_channel_desc">Notifikasi status perekaman dan terjemahan layar game</string>
+    <string name="notification_title">GameLingo Sedang Aktif</string>
+    <string name="notification_text">Ketuk gelembung di layar game Anda untuk menerjemahkan</string>
+</resources>

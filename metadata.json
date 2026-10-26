@@ -1,0 +1,6 @@
+{
+  "name": "GameLingo Offline",
+  "description": "Penerjemah layar game offline dengan OCR cepat, terjemahan on-device, dan overlay langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

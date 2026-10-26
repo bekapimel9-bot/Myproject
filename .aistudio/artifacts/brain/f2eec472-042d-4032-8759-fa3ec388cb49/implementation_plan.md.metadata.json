@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architecture and implementation plan for GameLingo Offline, an Android game-screen translator featuring on-device ML Kit OCR, on-device ML Kit translation with optional Gemini cloud fallback, a persistent floating overlay, in-place dialogue translation overlays, MediaProjection screen capture, screen region selection, Room-backed translation history, and DataStore settings.",
+  "updatedAt":  "2026-10-24T00:19:05.648248650Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
